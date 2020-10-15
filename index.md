@@ -6,10 +6,10 @@ I went to Hilton High School before this year. As far as hobbies go, I'd say I'm
 
 
 # Favorite Food
-![Image of Burger]http://www.seriouseats.com/images/2015/06/20150612-vegetarian-burger-recap-04-1500x1125.jpg
+![Image of Burger](http://www.seriouseats.com/images/2015/06/20150612-vegetarian-burger-recap-04-1500x1125.jpg)
 
 # SE Website
-https://www.rit.edu/computing/department-software-engineering
+[SE Webstie](https://www.rit.edu/computing/department-software-engineering)
 
 # I want to learn:
 - The basics of Software Engineering
