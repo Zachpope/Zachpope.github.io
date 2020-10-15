@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Zachpope/Zachpope.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# SE github.io assignment
 
 # Stuff about me
 '''stuff about me
@@ -10,6 +8,7 @@ I went to Hilton High School before this year. As far as hobbies go, I'd say I'm
 # Favorite Food
 ![Image of Burger]http://www.seriouseats.com/images/2015/06/20150612-vegetarian-burger-recap-04-1500x1125.jpg
 
+# SE Website
 https://www.rit.edu/computing/department-software-engineering
 
 # I want to learn:
