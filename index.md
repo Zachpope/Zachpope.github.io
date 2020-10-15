@@ -11,19 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Stuff about me
+I went to Hilton High School before this year. As far as hobbies go, I'd say I'm a fan of d&d, archery in the fall, as well as games. I currently work two jobs to fund my way through college, one at a bar, the other at a pizza place. There isn't much else to me, really, so I'll leave my introduction there.
 
-- Bulleted
-- List
+http://www.seriouseats.com/images/2015/06/20150612-vegetarian-burger-recap-04-1500x1125.jpg
 
-1. Numbered
-2. List
+https://www.rit.edu/computing/department-software-engineering
 
-**Bold** and _Italic_ and `Code` text
+I want to learn:
+- The basics of Software Engineering
+- What to expect more of in the feild
+- What a professional SE work environment looks like
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
